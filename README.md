@@ -3,6 +3,12 @@
 使用GitHub Pages功能公开的网页可以从[这里](https://elmas3.github.io/mao-seminar/)访问：
 https://elmas3.github.io/mao-seminar/
 
+# 成员
+魔王教授
+Elmas
+Wakana
+Dxy
+
 # 目录
 ```
 seminar/
